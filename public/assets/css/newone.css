@@ -1,0 +1,31 @@
+.lg {
+        /*background-color: transparent;*/
+        /*display: inline-grid;*/
+        align-items:  center;
+        width: 400px;
+        height: 400px;
+        padding-top: 100px;
+        display: inline-block;
+        margin-top: 100px;
+        /*margin-left: 400px;*/
+       /* box-sizing: auto;
+        box-shadow: blue;*/
+        /*padding-left: 400px;*/
+    }
+
+    .lg1{
+
+    	align-items: center;
+    	width: 600px;
+    	height: 400px;
+    	padding-top: 100px;
+    	display: inline-block;
+    	margin-top: 100px;
+    }
+    .lg img{
+    	width: relative;
+    	height: relative;
+    	position: relative;
+    	align-items: center;
+
+    }

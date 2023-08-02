@@ -1,0 +1,12 @@
+.lg {
+        /*background-color: transparent;*/
+        display: inline-grid;
+        align-items:  center;
+        width: 400px;
+        height: 200px;
+       /* box-sizing: auto;
+        box-shadow: blue;*/
+        padding-left: 100px;
+        box-sizing: relative;
+
+    }
